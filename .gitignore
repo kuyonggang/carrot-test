@@ -1,0 +1,41 @@
+*/target
+*.class
+target/
+.project
+.settings/
+.classpath
+application-luokun-local.*
+application-local.*
+bootstrap-local.*
+
+
+!.mvn/wrapper/maven-wrapper.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+/*.iml
+rebel-remote.xml
+rebel.xml
+src/main/resources/rebel-remote.xml
+src/main/resources/rebel.xml
+.idea/workspace.xml
+### NetBeans ###
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+*.log
